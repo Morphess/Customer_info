@@ -10,4 +10,12 @@ public class Customer {
         this.phone = phone;
     }
 
+    public String getName() {
+        return name;
+    }
+
+    public String getPhone() {
+        return phone;
+    }
+
 }
